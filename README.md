@@ -2,7 +2,7 @@
 
 > Built entirely using Google Colab on Mobile 📱💻
 
-
+-------
 
 📌 Overview
 
@@ -13,7 +13,7 @@ Students Performance Prediction is a machine learning project that predicts stud
 It walks through everything from data cleaning and visualization to model training and prediction using Python and essential ML libraries.
 
 
-
+------
 
 
 ✨ Features
@@ -32,7 +32,7 @@ It walks through everything from data cleaning and visualization to model traini
 
 
 
-
+-------
 
 📁 Dataset
 
@@ -51,8 +51,7 @@ The dataset contains:
 ➕ Math Score (target)
 
 
-
-
+-------
 
 📱 Built on Mobile (Colab)
 
@@ -65,7 +64,7 @@ This project proves you can:
 -> Complete full ML workflows without a computer!
 
 
-
+-------
 
 
 🚀 Getting Started
@@ -79,7 +78,7 @@ This project proves you can:
 ✓ Libraries: pandas, numpy, scikit-learn, matplotlib, seaborn
 
 
-
+-------
 
 
 
@@ -97,7 +96,7 @@ pip install -r requirements.txt
 > ✅ OR simply open the .ipynb or .py in Google Colab on mobile — no setup required!
 
 
-
+-------
 
 
 ▶️ How to Run
@@ -119,7 +118,7 @@ pip install -r requirements.txt
 
 
 
-
+------
 
 
 📊 Sample Output
@@ -131,7 +130,7 @@ pip install -r requirements.txt
 🎯 Predicted Score: Example result from one student’s data
 
 
-
+-------
 
 
 🔮 Future Work
